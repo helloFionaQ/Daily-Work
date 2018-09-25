@@ -1,0 +1,9 @@
+ I've already registered in Github, So I will ignore this step.
+
+1.Download from https://www.git-scm.com
+2.Install .exe File In Windows10
+3.Join my group by clicking the link from the invitation email sended by my classmate.
+4.Clone the project from the  https://github.com/SoftwarEngineeringGroup/Daily-Work.git
+5.Add my working file to local store
+6.Commit the file
+7.push the file to cloud
