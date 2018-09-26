@@ -1,4 +1,4 @@
-# 对Sketch2code简单的测试和相关资料的阅读 
+# Sketch2code简单的测试和相关资料的阅读 
 ##  Sketch2code的简介和小测试 ##
 1. 如下图使用经典的Sketch2code将手绘图像转换为HTML的过程：
 ![](https://mmbiz.qpic.cn/mmbiz_gif/kOTNkic5gVBGxKSz2WJQm5LOgdTHGGgCicP9DC2H0Rhf8fezYSHKX8GWoCglt9lhoc7qo5ts5Q3toPJx7PibfqGww/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)                
