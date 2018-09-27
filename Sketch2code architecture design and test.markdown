@@ -27,7 +27,9 @@
 
    ![](http://a2.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/9z*srDdgKb8vBZWs19u4s.Y0WvschY837lKSLSmdos4!/m/dD0BAAAAAAAA&bo=OASgBQAAAAARB6k!&rf=photolist)
 
- 测试结果一：![](http://a2.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/fnkpr2R5gfS29QZDtO1J0uv0Ru285RBlgkz1OZzTa.o!/m/dN0AAAAAAAAA&bo=XQRqAgAAAAARBwE!&rf=photolist)
+ 测试结果一：
+
+![](http://a2.qpic.cn/psb?/31c73372-bbf1-44a2-a0ef-d40393026b98/fnkpr2R5gfS29QZDtO1J0uv0Ru285RBlgkz1OZzTa.o!/m/dN0AAAAAAAAA&bo=XQRqAgAAAAARBwE!&rf=photolist)
 
 第一次用自己的中文图形进行测试未出现其对应的HTML代码
 
